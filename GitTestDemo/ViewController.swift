@@ -13,7 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
        let test_message = "The git demo testing"
-        print(test_message)
+        print(test_message,"test test test")
     }
 
 
