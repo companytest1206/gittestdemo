@@ -12,7 +12,8 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-       let 
+       let test_message = "The git demo testing"
+        print(test_message)
     }
 
 
